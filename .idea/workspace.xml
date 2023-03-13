@@ -5,23 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1d5ac9db-979e-4725-82bc-f6c118455b20" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/me/bredo/cmd/byteData/handlers/FileDataConverter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/me/bredo/cmd/byteData/handlers/TypeByteConverter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/me/bredo/cmd/byteData/managers/FileStoreManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/me/bredo/cmd/byteData/utilities/ByteData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/me/bredo/cmd/byteData/utilities/ByteDataStore.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/me/bredo/cmd/byteData/utilities/FileStore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/bredo/cmd/byteData/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/bredo/cmd/byteData/utilities/ByteDataType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/bredo/cmd/byteData/utilities/ByteData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/bredo/cmd/byteData/utilities/ByteData.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,6 +54,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
